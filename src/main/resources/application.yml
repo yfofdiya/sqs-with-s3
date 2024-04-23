@@ -1,0 +1,11 @@
+
+spring:
+  aws:
+    credentials:
+      access-key: 
+      secret-key: 
+    region: ap-south-1
+
+aws:
+  sqs:
+    name: demo-queue
